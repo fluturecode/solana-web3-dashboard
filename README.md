@@ -9,5 +9,6 @@ First, install the dependencies:
 yarn install
 ```
 ## NextJS
+https://docs.moralis.io/moralis-server/getting-started
 
 ## Moralis
