@@ -1,5 +1,5 @@
 {
-  "name": "solana-next-moralis",
+  "name": "solana-dashboard",
   "private": true,
   "scripts": {
     "dev": "next dev",
