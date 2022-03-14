@@ -8,7 +8,10 @@ First, install the dependencies:
 ```bash
 yarn install
 ```
+
 ## NextJS
-https://docs.moralis.io/moralis-server/getting-started
+https://nextjs.org/docs/getting-started
+
 
 ## Moralis
+https://docs.moralis.io/moralis-server/getting-started
